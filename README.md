@@ -1,0 +1,1 @@
+Using the yoga site as an example, we are trying to send Ajax requests from the form to the server
